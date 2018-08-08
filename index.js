@@ -1,6 +1,8 @@
 Function shout(string){
-  return string.toUpperCase()
+  return 
+  string.toUpperCase()
 }
 Function sayHiToGrandma(){
-  return string.toUpperCase()
+  return 
+  string.toUpperCase()
 }
